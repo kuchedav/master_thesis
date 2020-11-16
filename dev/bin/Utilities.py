@@ -1,5 +1,13 @@
 """
 This python file contains smaller, generic functions which are being used in my project
+
+Notes
+Benötigte Funktionen
+```python
+def get_address(coordinates)
+
+def get_satellite_img(gemeinde)
+```
 """
 
 import numpy as np
