@@ -7,24 +7,36 @@ Date: 14.10.2020
 Attended:
 
 - Martin Frey
-- Fabian Diergardt
+- Lisa Falco
 - David Kuchelmeister
 
 Upcoming vacations
 
-- David - 1 week - 19.10-25.10
+
 
 ## Points to discuss
 
 - Language of Thesis: English
 
-- Agree on "Summary.md" file
- - ...
+- Documentation & Code saved on Github. https://github.com/kuchedav/master_thesis
 
+- Agree on "Summary.md" file
+
+## Definition of complete
+
+- Running code
+	- code fullfills definition from "Summary.md" file
+- Master Thesis
+	- Written in english.
+	- Written in latex
+- Master Presentation
 
 ## Next steps
 
-- Access Pricing model data
+- Access Pricing model data.
 
 - How to load images with geospatial data?
 
+- Extract target variable from maps
+
+- Create Convolutional NN to detect buildings
